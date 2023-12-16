@@ -26,6 +26,18 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
+              title="Earth Engine Apps"
+              description="Created Stand Alone Earth Engine Apps using GEE code editor, the Apps cater to a lot of individual Remote Sensing applications, some of them deal with climate related problems and some deal 
+              with downloading and spectral signature processing of sentinel and landsat imagery."
+              ghLink="https://github.com/shreyas-rc/GEE_Codes"
+              demoLink="/shreyas-rc/apps"
+            />
+          </Col>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leaf}
+              isBlog={false}
               title="Data Collection"
               description="These are IoT sensors that are currently live and sending values to the cloud every 30 seconds. Includes Air - Quality, Temperature, Humidity and Intensity of Light values, at the location 
               in the Demo Link. Feel free to visit and take a look. The Github link contains code and other individual libraries for each sensor with a brief"
