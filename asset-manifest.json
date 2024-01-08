@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shreyas-rc/static/css/main.d72cd3f6.css",
-    "main.js": "/shreyas-rc/static/js/main.76077cf4.js",
+    "main.js": "/shreyas-rc/static/js/main.a9d4b85f.js",
     "static/js/415.6c8568cd.chunk.js": "/shreyas-rc/static/js/415.6c8568cd.chunk.js",
     "static/js/787.8c4fa800.chunk.js": "/shreyas-rc/static/js/787.8c4fa800.chunk.js",
     "static/media/blog.png": "/shreyas-rc/static/media/blog.2d2d49074f0bd714b617.png",
@@ -12,16 +12,17 @@
     "static/media/chatify.png": "/shreyas-rc/static/media/chatify.b72c0d46bd6137f2c66c.png",
     "static/media/leaf.png": "/shreyas-rc/static/media/leaf.15ff3c0caa331ac7186f.png",
     "static/media/home-bg.jpg": "/shreyas-rc/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/suicide.png": "/shreyas-rc/static/media/suicide.825627c7b48ae30b0731.png",
     "static/media/logo.png": "/shreyas-rc/static/media/logo.af32e83aa5c783000a91.png",
     "static/media/pre.svg": "/shreyas-rc/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/shreyas-rc/index.html",
     "main.d72cd3f6.css.map": "/shreyas-rc/static/css/main.d72cd3f6.css.map",
-    "main.76077cf4.js.map": "/shreyas-rc/static/js/main.76077cf4.js.map",
+    "main.a9d4b85f.js.map": "/shreyas-rc/static/js/main.a9d4b85f.js.map",
     "415.6c8568cd.chunk.js.map": "/shreyas-rc/static/js/415.6c8568cd.chunk.js.map",
     "787.8c4fa800.chunk.js.map": "/shreyas-rc/static/js/787.8c4fa800.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d72cd3f6.css",
-    "static/js/main.76077cf4.js"
+    "static/js/main.a9d4b85f.js"
   ]
 }
