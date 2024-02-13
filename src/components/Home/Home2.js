@@ -53,7 +53,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
           <b className="about-windy">Windy - API</b>
-          <iframe width="350" height="300" src="https://embed.windy.com/embed2.html?lat=17.592&lon=78.138&detailLat=17.456&detailLon=78.201&width=350&height=350&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=true&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1" title="Windy Map" frameborder="0">
+          <iframe width="350" height="300" src="https://embed.windy.com/embed2.html?lat=50.618&lon=4.713&detailLat=50.847&detailLon=4.352&width=350&height=350&zoom=7&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=true&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1" title="Windy Map" frameborder="0">
           </iframe> 
             <br></br> 
             <br></br>

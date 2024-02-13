@@ -10,24 +10,27 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">SHREYAS R C </span>
             from <span className="purple"> Bengaluru, India.</span>
-            <br /> I am a research scholar at Indian Institute of Technology Hyderabad,
-            in the department of Climate Change. I'm a part of Greenko-School of Sustainability.
-            I'm in love with the way the spatial science can solve the whole of world's problem!
+            <br /> I am a dedicated researcher driven by a profound love and unwavering passion for conducting high-quality research.
+            I'm a research scholar at the <span className="purple"> University of Ghent, Belgium </span>. I study,
+            Spatial and Acoustical Science. Waves and GIS are two fields that interests me.
             <br />
           
             <br />
             <br />
-            My interests run wild, but deeply rooted to GIS science:
+            My interests run wild, but deeply rooted to GIS and Science of WAVES :
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Climate research
+              <ImPointRight /> GIS - Climate research
             </li>
             <li className="about-activity">
-              <ImPointRight /> Web-based GIS technology
+              <ImPointRight /> WAVES research
             </li>
             <li className="about-activity">
-              <ImPointRight /> Data collection
+              <ImPointRight /> Data collection &
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Web application development
             </li>
           </ul>
 
