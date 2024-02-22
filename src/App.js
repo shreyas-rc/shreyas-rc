@@ -9,7 +9,8 @@ import Resume from "./components/Resume/ResumeNew";
 import Apps from "./components/App/GEE_App"
 
 import {
-  BrowserRouter as Router,
+  // BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
@@ -31,7 +32,8 @@ function App() {
   }, []);
 
   return (
-    <Router basename="/shreyas-rc">
+    // basename="/shreyas-rc"
+    <Router >
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
@@ -42,7 +44,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/apps" element={<Apps />} />
-          <Route path="*" element={<Navigate to="/shreyas-rc"/>} />
+          <Route path="*" element={<Home />} />
+          {/* Navigate to="/shreyas-rc" */}
         </Routes>
         <Footer />
       </div>

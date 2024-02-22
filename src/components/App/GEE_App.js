@@ -12,7 +12,7 @@ function Projects() {
           EARTH ENGINE <strong className="purple">APPS </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few of the Earth Engine Apps that I've created.
+          Here is a few of Earth Engine Apps developed by me (This Page can be best viewed on a desktop).
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
@@ -24,7 +24,7 @@ function Projects() {
         <iframe
           title="ExternalApp"
           src={iframeSrc}
-          width="1800" 
+          width="100%" 
           height="900" 
           frameBorder="0" 
           allowFullScreen 
@@ -41,7 +41,7 @@ function Projects() {
         <iframe
           title="ExternalApp"
           src={iframeSrc1}
-          width="1800" 
+          width="100%" 
           height="900" 
           frameBorder="0" 
           allowFullScreen 
