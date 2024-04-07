@@ -30,7 +30,7 @@ function Projects() {
               description="Created Stand Alone Earth Engine Apps using GEE code editor, the Apps cater to a lot of individual Remote Sensing applications, some of them deal with climate related problems and some deal 
               with downloading and spectral signature processing of sentinel and landsat imagery."
               ghLink="https://github.com/shreyas-rc/GEE_Codes"
-              demoLink="/shreyas-rc/apps"
+              demoLink="/#/apps"
             />
           </Col>
 
