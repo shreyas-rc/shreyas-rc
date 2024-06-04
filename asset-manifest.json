@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shreyas-rc/static/css/main.8fd674a5.css",
-    "main.js": "/shreyas-rc/static/js/main.02016edd.js",
+    "main.js": "/shreyas-rc/static/js/main.da5061b0.js",
     "static/js/415.6c8568cd.chunk.js": "/shreyas-rc/static/js/415.6c8568cd.chunk.js",
     "static/js/787.8c4fa800.chunk.js": "/shreyas-rc/static/js/787.8c4fa800.chunk.js",
     "static/media/blog.png": "/shreyas-rc/static/media/blog.2d2d49074f0bd714b617.png",
     "static/media/home-bg.jpg": "/shreyas-rc/static/media/home-bg.00cc74bc09cd5dca33cc.jpg",
     "static/media/about.png": "/shreyas-rc/static/media/about.2416c53c32d02b681895.png",
-    "static/media/Resume.pdf": "/shreyas-rc/static/media/Resume.fadefef3b9fc19f68af2.pdf",
+    "static/media/Resume.pdf": "/shreyas-rc/static/media/Resume.617f00f866e7eab1bcb9.pdf",
     "static/media/home-main.svg": "/shreyas-rc/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/codeEditor.png": "/shreyas-rc/static/media/codeEditor.5800c2a40596a7a5f277.png",
     "static/media/chatify.png": "/shreyas-rc/static/media/chatify.b72c0d46bd6137f2c66c.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/shreyas-rc/static/media/pre.16d01cf77f6391588cc4.svg",
     "index.html": "/shreyas-rc/index.html",
     "main.8fd674a5.css.map": "/shreyas-rc/static/css/main.8fd674a5.css.map",
-    "main.02016edd.js.map": "/shreyas-rc/static/js/main.02016edd.js.map",
+    "main.da5061b0.js.map": "/shreyas-rc/static/js/main.da5061b0.js.map",
     "415.6c8568cd.chunk.js.map": "/shreyas-rc/static/js/415.6c8568cd.chunk.js.map",
     "787.8c4fa800.chunk.js.map": "/shreyas-rc/static/js/787.8c4fa800.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd674a5.css",
-    "static/js/main.02016edd.js"
+    "static/js/main.da5061b0.js"
   ]
 }
